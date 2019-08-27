@@ -1,0 +1,72 @@
+<!--DOCTYPE HTML5-->
+<style>
+    .h1{
+        font-family: sans-serif,'Times New Roman', Times, serif;
+        background-color: rgb(255, 255, 255);
+        font-size: 15px;
+        margin-top:20px;
+}
+    .name{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+        margin-bottom:10px;
+}
+    .bdiv{
+        margin-top:20px;
+        margin-bottom:20px;
+        background-color: rgb(255, 255, 255);
+    }
+    .b{
+        background-color: rgb(255, 255, 255);
+    }
+</style>
+<HTML5>
+
+<head class="name"><center><b>
+    Zak Barba Web Developer
+
+</head></center></b>
+
+<h1 class="h1">
+    I am a developer currently looking for any opportunities to further my knowledge on new technologies and the development process.
+</h1>
+
+
+<body class="b">
+
+    <div class="bdiv">
+
+        <p1>
+
+            <table>
+
+                <tr>
+                  <th>Projects</th>
+                  <th>Contact Info</th>
+                  <th>Resume</th>
+                </tr>
+                <tr>
+                  <td>Website</td>
+                  <td>zakbarba7@yahoo.com</td>
+                  <td>Cover Letter</td>
+                </tr>
+                <tr>
+                  <td>Project 2</td>
+                  <td>Linked-in & Git</td>
+                  <td>Resume</td>
+                </tr>
+
+              </table> 
+        </p1>
+
+    
+
+    </div>
+
+
+</body>
+
+
+
+
+</HTML5>
