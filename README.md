@@ -1,2 +1,2 @@
 # myWebsite
-Attempting to make a webpage for myself. WIP
+Attempting to make a webpage for myself. Using VSCode. WIP.
