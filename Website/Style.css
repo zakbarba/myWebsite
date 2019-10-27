@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(clouds.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    height: 400vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-nav{
+    float:right;
+    list-style: none;  
+    margin-top:30px;
+}
+
+.main-nav li{
+    display: inline-block;
+}
+
+.main-nav li a{
+    color:white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.active a{
+    border: 1px solid white;
+}
+
+.main-nav li a:hover{
+    border: 1px solid white;
+}
+
+.logo{
+    width: 150px;
+    height:0px;
+    float:left;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+.row{
+    max-width: 1200px;
+    margin:auto;
+}
+
+.hero{
+    position: absolute;
+    width: 1400px;
+    height: 0px;
+    margin-left:0;
+    margin-top:0;
+}
+
+h1{
+    color:white;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top:275px;
+}
+
+.button{
+    margin-top: 30px;
+    margin-left:570px;
+}
+
+.button1{
+    border:1px solid white;
+    padding: 10px 30px;
+    color:white;
+    text-decoration: none;
+    margin-right:5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.button1{
+    background-color: rgb(67, 141, 224);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.button2:hover{
+    background-color: rgb(67, 141, 224);
+    transition: all 0.5s ease-in;
+}
+
+.about{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    color: green;
+    position:absolute;
+    margin-left: 120px;
+    margin-right: 120px;
+    bottom:-100px;
+    border-left: 5px solid;
+    border-color: cornflowerblue;
+    border-style: inset;
+    background-color:lightblue; 
+}
